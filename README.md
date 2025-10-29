@@ -12,5 +12,4 @@ This patch forces DMCO to use stepdodge only
 ## Credits
 
 - **DMCO:** [Distar](https://www.distaranimation.com/mods/dodge)
-- **BDI:**  [Maxsu](https://www.nexusmods.com/skyrimspecialedition/mods/78146)
 - **Patch:** ME
