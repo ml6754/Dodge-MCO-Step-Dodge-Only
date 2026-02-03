@@ -1,7 +1,7 @@
 # DMCO StepDodgeOnly
 
 ## Description  
-This patch forces DMCO to use stepdodge only
+This patch forces DMCO to use stepdodge only, it will not allow the player to transition from a dodge into another dodge.
 
 ## Installation
 
